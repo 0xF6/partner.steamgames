@@ -19,9 +19,6 @@
 
 <!-- popup badges -->
 <p align="center">
-   <a href="https://openupm.com/packages/com.ivysola.uquery/">
-    <img alt="OpenUPM" src="https://img.shields.io/npm/v/com.ivysola.uquery?label=openupm&registry_uri=https://package.openupm.com">
-  </a>
   <a href="https://t.me/ivysola">
     <img src="https://img.shields.io/badge/Ask%20Me-Anything-1f425f.svg?style=popout-square&logo=telegram">
   </a>
